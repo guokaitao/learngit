@@ -1,2 +1,3 @@
 Git has a very good software.
-hello world.
+Git is so easy !
+
